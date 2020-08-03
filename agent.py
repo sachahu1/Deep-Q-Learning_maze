@@ -110,7 +110,7 @@ class Agent:
         if end_episode == True:
             if distance_to_goal<0.03:
                 self.num_steps_taken = self.episode_length
-                print("reached goal : ", self.reach_counter)
+                # print("reached goal : ", self.reach_counter)
                 self.reach_counter += 1
 
                 if self.type == "greedy":
