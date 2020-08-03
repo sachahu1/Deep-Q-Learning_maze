@@ -60,7 +60,6 @@ This will install the following libraries (and their dependencies) in the virtua
 - ```torch``` 
 - ```opencv-python```
 - ```numpy```
-- ```matplotlib```
 
 ## How to run a script ?
 
